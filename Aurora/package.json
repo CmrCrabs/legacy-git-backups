@@ -1,0 +1,20 @@
+{
+  "name": "cassete",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "front": "yarn --cwd client vite",
+    "dev": "nodemon server.js",
+    "both": "concurrently \"yarn run dev \" \"yarn run front\"",
+    "node" : "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20"
+  }
+}

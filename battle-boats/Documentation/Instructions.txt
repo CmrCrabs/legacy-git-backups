@@ -1,0 +1,30 @@
+Battleboats Game Instructions:
+
+Objective:
+Sink all of your opponent's battleboats before they sink yours!
+
+Setup:
+
+    Each player arranges their battleboats on their grid.
+    You can select where to place the boats using either the WASD or Arrow Keys.
+    The boats can be rotated with the 'R' Key.
+    To place a boat, press Enter.
+
+Gameplay:
+
+    At the start of the player turn, the player can choose to shoot at any square that has not already been shot at.
+    you can select your target using the WASD or Arrow Keys.
+    To Fire, press Enter.
+    If you hit a boat, the tile will change to the corresponding colour. Likewise will occur if you miss.
+    If you sink a boat, the entire boat will change colour to that which corresponds to a wreckage.
+
+    The Computer will then take its turn, repeating the same steps as the player.
+
+Rules:
+
+    Once a battleboat is hit in all its squares, it is considered sunk.
+    The first player to sink all of their opponent's battleboats wins the game.
+
+Misc:
+
+    at any time, the player may press escape in order to save progress and return to the game menu, where they may view these instructions again or quit.

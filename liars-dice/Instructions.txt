@@ -1,0 +1,15 @@
+Five dice per player are used alongside dice cups for concealment.
+Players take turns rolling a "hand" of dice under their cups and make a bid based on their observation.
+
+A bid involves a player announcing a chosen face value and the number of dice they belive show that value.
+
+Players can either raise the bid or challenge the previous bid during their turn. 
+Raising the bid involves increasing the quantity of dice with a specified face value.
+
+If challenged, all dice are revealed. 
+If the bid is valid, the bidder wins;; otherwise, the challenger wins. 
+
+The loser of a round loses one die, and the game continues until only one player retains a die or dice, declaring them the winner. 
+The loser of the previous round initiates bidding for the next round, or the next player does so if the previous loser is eliminated.
+
+
